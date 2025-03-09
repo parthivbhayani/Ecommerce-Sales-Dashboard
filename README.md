@@ -1,6 +1,6 @@
 # Ecommerce Sales Dashboard
 
-![Dashboard Screenshot](Screenshot%Ecommerce Sales Dashboard.png)
+![Dashboard Screenshot](Ecommerce%20Sales%20Dashboard.png)
 
 ## Overview
 This project is an **Ecommerce Sales Dashboard** built using Microsoft Excel. The dashboard provides insights into sales performance, customer behavior, and product trends, allowing businesses to make data-driven decisions.
